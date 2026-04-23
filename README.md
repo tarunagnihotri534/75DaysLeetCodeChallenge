@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## String Matching
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
