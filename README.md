@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0136-single-number](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
