@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
+| [0136-single-number](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
@@ -212,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0014-longest-common-prefix/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
