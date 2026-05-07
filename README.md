@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/tarunagnihotri534/75DaysLeetCodeChallenge/tree/main/0143-reorder-list/) | Medium |
